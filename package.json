@@ -1,0 +1,23 @@
+{
+  "name": "cari-teks-email",
+  "version": "1.1.5",
+  "description": "Get all emails from a text.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Somk1ng/cari-teks-email"
+  },
+  "author": "Papa Muda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Somk1ng/cari-teks-email/issues"
+  },
+  "homepage": "https://github.com/Somk1ng/cari-teks-email",
+  "dependencies": {
+    "async": "^0.9.0",
+    "cheerio": "^0.17.0"
+  }
+}
